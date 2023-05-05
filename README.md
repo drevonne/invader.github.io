@@ -3,7 +3,6 @@
 An interactive top view shooter where the player battles aliens in an attempt to survive.
   
 "Insert Video Link here"
-"Insert Project Goals"
   
 ## Project Goals
   Our goal for this project was to implement a python version of the classicgame space invaders. Our primary focus was insuring that the collision mechanisms between characters and bullets reflect properly as well as the motion of the enemies. To stay true to the classic, we decided to keep the same top view however we decided to take out the barriers. Above anything else, our biggest goal was to ensure the players have fun!
@@ -14,3 +13,9 @@ An interactive top view shooter where the player battles aliens in an attempt to
   "Insert Screenshots here"
  ## About us
   
+  <img align="left" width="100" height="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmites.mit.edu%2Fdiscover-mites%2Fapply-to-mites%2Fprepare-your-application-mites-summer-and-mites-semester%2F&psig=AOvVaw1Ap8uUMu3UvyjVneGhFj8X&ust=1683362938313000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiyr-bl3f4CFQAAAAAdAAAAABAE">
+  ###Dre Hilton
+  
+  Olin Class of 2024
+  
+  Dre is a third year Engineering: Computing major. His hobbies include: rapping, gaming, and writing short stories.
