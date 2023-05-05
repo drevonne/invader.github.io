@@ -1,6 +1,4 @@
-[Click me]([http://www.google.com](https://github.com/olincollege/space-invaders)){: .btn}
-# Space Invaders Pygame
-An interactive top view shooter where the player battles aliens in an attempt to survive.
+
   
 "Insert Video Link here"
   
