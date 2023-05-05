@@ -14,7 +14,8 @@ An interactive top view shooter where the player battles aliens in an attempt to
  ## About us
   
   <img align="left" width="100" height="100" src="https://mites.mit.edu/wp-content/uploads/2022/11/2019_MITES_Headshots_DreVonne_Hilton2-scaled-e1668799773205.jpg">
-  **Dre Hilton**
+  
+  ### Dre Hilton
   
   _Olin Class of 2024_
   
