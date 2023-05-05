@@ -13,7 +13,7 @@ An interactive top view shooter where the player battles aliens in an attempt to
   "Insert Screenshots here"
  ## About us
   
-  <img align="left" width="100" height="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmites.mit.edu%2Fdiscover-mites%2Fapply-to-mites%2Fprepare-your-application-mites-summer-and-mites-semester%2F&psig=AOvVaw1Ap8uUMu3UvyjVneGhFj8X&ust=1683362938313000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiyr-bl3f4CFQAAAAAdAAAAABAE">
+  <img align="left" width="100" height="100" src="https://mites.mit.edu/wp-content/uploads/2022/11/2019_MITES_Headshots_DreVonne_Hilton2-scaled-e1668799773205.jpg">
   ### Dre Hilton
   
   _Olin Class of 2024_
